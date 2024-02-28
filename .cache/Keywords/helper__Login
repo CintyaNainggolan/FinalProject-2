@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "00E0596EE1349E9A8E33E3E94D55A219",
+  "keywordClasses": [
+    {
+      "name": "helper.Login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

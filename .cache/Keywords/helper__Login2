@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DFED3DDDB6439CDC495206E2A16527B9",
+  "keywordClasses": [
+    {
+      "name": "helper.Login2",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
